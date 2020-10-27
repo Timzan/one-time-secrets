@@ -16,7 +16,7 @@ cchardet==2.1.5
 certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
-cryptography==2.9.2
+cryptography==3.2
 Faker==4.0.2
 httplib2==0.17.0
 idna==2.8
