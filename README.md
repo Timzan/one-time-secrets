@@ -2,8 +2,6 @@
 
 **Python 3.7+**
 
-**aiohttp**
-
 **MongoDB**
 
 **Docker**
